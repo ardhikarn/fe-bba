@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+*:focus {
+  outline: none;
+}
+
+/* LOGIN */
+.font-13 {
+  font-size: 13px !important;
+}
+
+.font-14 {
+  font-size: 14px !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.no-focus:focus {
+  box-shadow: none;
+}
+
+.btn-lb {
+  background-color: #9969d3;
+  color: white !important;
+}
+
+.btn-outline-lb {
+  background-color: transparent;
+  border: 1px solid #9969d3;
+  color: #9969d3 !important;
+}
+
+.btn-outline-lb:hover {
+  background-color: #e0e7f5;
+  border: 1px solid #eeeff1;
+}
+
+.form-group-auth {
+  margin-bottom: 10px;
+}
+
+.form-group-auth label {
+  font-size: 12px;
+  color: #848484;
+  opacity: 0.75;
+  margin: 0;
+}
+
+.form-group-auth input {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+  padding: 5px 0;
+  font-size: 14px;
+}
+
+.form-group-auth input:focus {
+  outline: none;
+  box-shadow: none;
+}
+.form-group-auth input.is-valid:focus {
+  outline: none;
+  box-shadow: none;
+}
+.form-group-auth input.is-invalid:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.max-vh-100 {
+  max-height: 100vh !important;
+}
+
+.weight-500 {
+  font-weight: 500 !important;
+}
+
+.weight-400 {
+  font-weight: 400 !important;
+}
+
+.btn-block.rounded-pill {
+  padding: 13px;
+}
+
+.blue.btn-block {
+  background: #9969d3;
+  border: 1px solid #9969d3;
+}
+
+.bluetext {
+  color: #9969d3;
+}
