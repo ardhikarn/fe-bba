@@ -1,0 +1,196 @@
+{
+  "category": [
+    {
+      "_id": "1231231211",
+      "name": "Mobile Developer",
+      "imageUrl": "images/category-image-1.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd011",
+          "title": "Flutter Developer",
+          "company": "PT. Satujaya",
+          "logo": "images/company-logo-1.jpg",
+          "location": "Surabaya",
+          "description": "A company in South Africa is looking to hire a full time Product Designer. The potential candidate must have a great eye for design and should be able to work in a fast-paced environment. Candidate should be proficient with Zoom and Slack. Relocation expenses will also be provided."
+        },
+        {
+          "_id": "asddsaasd012",
+          "title": "React Native Developer",
+          "company": "PT. DuaSaja",
+          "logo": "images/company-logo-2.jpg",
+          "location": "Gresik",
+          "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue;"
+        }
+      ]
+    },
+    {
+      "_id": "1231231212",
+      "name": "Product Designer",
+      "imageUrl": "images/category-image-2.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd013",
+          "title": "Junior Designer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-3.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd014",
+          "title": "Senior Developer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-4.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231213",
+      "name": "Software Engineer",
+      "imageUrl": "images/category-image-3.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231214",
+      "name": "Project Manager",
+      "imageUrl": "images/category-image-4.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231215",
+      "name": "Back-End Developer",
+      "imageUrl": "images/category-image-5.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231216",
+      "name": "Front-End Developer",
+      "imageUrl": "images/category-image-6.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231217",
+      "name": "Designer",
+      "imageUrl": "images/category-image-7.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    },
+    {
+      "_id": "1231231218",
+      "name": "Fullstack Developer",
+      "imageUrl": "images/category-image-8.jpg",
+      "isSelect": false,
+      "jobDetails": [
+        {
+          "_id": "asddsaasd015",
+          "title": "Junior Software Engineer",
+          "company": "PT. DesignerSatu",
+          "logo": "images/company-logo-5.jpg",
+          "location": "Malang",
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
+        },
+        {
+          "_id": "asddsaasd016",
+          "title": "Senior Software Engineer",
+          "company": "PT. DesignerDUa",
+          "logo": "images/company-logo-6.jpg",
+          "location": "Tangerang",
+          "description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam"
+        }
+      ]
+    }
+  ]
+}
