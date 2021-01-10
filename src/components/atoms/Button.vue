@@ -1,10 +1,6 @@
 <template>
-  <button @click="$emit('cus-click')" class="btn" :disabled="isLoading">
-    <div v-if="isLoading">
-      <b-spinner small></b-spinner>
-      <span class="sr-only">Loading...</span>
-    </div>
-    <slot v-if="!isLoading"></slot>
+  <button @click="$router.push(to)" class="btn btn-purple ">
+    <slot></slot>
   </button>
 </template>
 
@@ -12,12 +8,15 @@
 export default {
   name: 'g-button',
   props: {
-    isLoading: {
-      type: Boolean,
-      default: false
-    }
-  }
+    to: String
+  },
+  methods: {}
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.btn-purple {
+  background-color: #9969d3;
+  color: #fff;
+}
+</style>

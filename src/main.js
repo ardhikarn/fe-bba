@@ -2,12 +2,13 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import firebase from 'firebase'
+import store from './store/index'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import { ValidationProvider, extend, configure } from 'vee-validate'
 import { required, email } from 'vee-validate/dist/rules'
-import './assets/css/style.css'
+import './assets/style.scss'
 import './GlobalComponents.js'
 
 Vue.use(BootstrapVue)
@@ -51,6 +52,7 @@ firebase.auth().onAuthStateChanged(user => {
   if (!app) {
     app = new Vue({
       router,
+      store,
       render: h => h(App)
     }).$mount('#app')
   }

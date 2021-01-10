@@ -6,6 +6,9 @@ import Register from '@/views/auth/Register.vue'
 import Login from '@/views/auth/Login.vue'
 
 import Category from '@/views/Category.vue'
+import Gigs from '@/views/Gigs.vue'
+import DetailGigs from '@/views/DetailGigs.vue'
+import Application from '@/views/Application.vue'
 
 Vue.use(VueRouter)
 
@@ -36,6 +39,30 @@ const routes = [
     path: '/category',
     name: 'Category',
     component: Category,
+    meta: {
+      requiresAuth: true
+    }
+  },
+  {
+    path: '/gigs',
+    name: 'Gigs',
+    component: Gigs,
+    meta: {
+      requiresAuth: true
+    }
+  },
+  {
+    path: '/detail-gigs',
+    name: 'DetailGigs',
+    component: DetailGigs,
+    meta: {
+      requiresAuth: true
+    }
+  },
+  {
+    path: '/application',
+    name: 'Application',
+    component: Application,
     meta: {
       requiresAuth: true
     }

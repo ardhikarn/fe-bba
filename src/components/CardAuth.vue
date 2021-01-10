@@ -32,11 +32,7 @@ export default {
 }
 </script>
 
-<style scoped>
-.back-icon {
-  position: absolute;
-  top: 32px;
-}
+<style lang="scss" scoped>
 #auth {
   background-color: #f6f6f6;
   height: 100vh;
@@ -44,19 +40,23 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-.card-title {
-  color: #9969D3;
-  font-size: 22px;
-  text-align: center;
-  margin-bottom: 30px;
-  font-weight: 500;
-}
-.card-description {
-  font-size: 14px;
-}
-#auth .card {
-  box-shadow: 0px 20px 20px rgba(191, 126, 223, 0.05);
-  border-radius: 30px;
+  .card {
+    box-shadow: 0px 20px 20px rgba(191, 126, 223, 0.05);
+    border-radius: 30px;
+    .back-icon {
+      position: absolute;
+      top: 32px;
+    }
+    .card-title {
+      color: #9969d3;
+      font-size: 22px;
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 500;
+    }
+    .card-description {
+      font-size: 14px;
+    }
+  }
 }
 </style>
