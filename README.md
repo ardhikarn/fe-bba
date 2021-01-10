@@ -2,13 +2,14 @@
 
 ## MISSING POINT
 
-1. Search
-2. Favorite
+1. `Search`
+2. `Favorite`
+   #not enough time
 
 ## ISSUES
 
-1. API haven't CATEGORY NAME
-2. API haven't DETAIL DATA JOB
+1. `API haven't CATEGORY NAME`
+2. `API haven't DETAIL DATA JOB`
 
 ## Getting Started
 
