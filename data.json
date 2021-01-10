@@ -3,7 +3,8 @@
     {
       "_id": "1231231211",
       "name": "Mobile Developer",
-      "imageUrl": "images/category-image-1.jpg",
+      "imageUrl": "mobile-dev-black.svg",
+      "imagePick": "mobile-dev-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -27,7 +28,8 @@
     {
       "_id": "1231231212",
       "name": "Product Designer",
-      "imageUrl": "images/category-image-2.jpg",
+      "imageUrl": "pro-design-black.svg",
+      "imagePick": "pro-design-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -51,7 +53,8 @@
     {
       "_id": "1231231213",
       "name": "Software Engineer",
-      "imageUrl": "images/category-image-3.jpg",
+      "imageUrl": "soft-eng-black.svg",
+      "imagePick": "soft-eng-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -75,7 +78,8 @@
     {
       "_id": "1231231214",
       "name": "Project Manager",
-      "imageUrl": "images/category-image-4.jpg",
+      "imageUrl": "pro-man-black.svg",
+      "imagePick": "pro-man-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -99,7 +103,8 @@
     {
       "_id": "1231231215",
       "name": "Back-End Developer",
-      "imageUrl": "images/category-image-5.jpg",
+      "imageUrl": "be-dev-black.svg",
+      "imagePick": "be-dev-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -123,7 +128,8 @@
     {
       "_id": "1231231216",
       "name": "Front-End Developer",
-      "imageUrl": "images/category-image-6.jpg",
+      "imageUrl": "fe-dev-black.svg",
+      "imagePick": "fe-dev-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -147,7 +153,8 @@
     {
       "_id": "1231231217",
       "name": "Designer",
-      "imageUrl": "images/category-image-7.jpg",
+      "imageUrl": "designer-black.svg",
+      "imagePick": "designer-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
@@ -171,7 +178,8 @@
     {
       "_id": "1231231218",
       "name": "Fullstack Developer",
-      "imageUrl": "images/category-image-8.jpg",
+      "imageUrl": "fullstack-black.svg",
+      "imagePick": "fullstack-purple.svg",
       "isSelect": false,
       "jobDetails": [
         {
